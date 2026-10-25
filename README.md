@@ -1,7 +1,9 @@
 # SOC-Home-Lab
 Home cybersecurity lab focused on SIEM monitoring, threat detection, and investigation. Gaining experience and challenging myself
+
 Overview
-This project documents my development and use of a virtual SOC environment sing Wazuh, Ubuntu Server, and Windows 11.
+
+This project documents my development and use of a virtual SOC environment using Wazuh, Ubuntu Server, and Windows 11.
 
 I am building this lab to develop and practice skills in cybersecurity including monitoring, threat detection, incident investigation, and engineering.
 
